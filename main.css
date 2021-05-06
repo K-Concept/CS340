@@ -37,6 +37,12 @@ article {
 .thirty {width:30%;} 
 .fifteen {width:15%;} 
 .ten {width:10%;} 
+
+table, th, td {
+
+border: 1px solid black;
+
+}
 /* anchors */
 
 
