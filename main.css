@@ -83,6 +83,11 @@ border: 1px solid black;
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+fieldset{
+    margin:5%;
+    padding:5%;
+}
 /* anchors */
 
 
